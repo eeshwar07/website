@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Eeshwar Pasula",
+    "description": "Highly motivated software engineering professional with experience in developing, deploying, and maintaining web, mobile, and desktop applications.",
+    "image": "profilepic.jpg",
+    "bio": "Seasoned professional with approximately 3 years of hands-on experience in the development, testing, and maintenance of web applications in Client/Server environments. Proficient in UI technology stacks, showcasing expertise in frameworks such as JavaScript, Node.js, Express, ReactJS, and REST API's. Skilled in developing web applications using HTML, CSS, Tailwind, JavaScript, and Typescript. Well-versed in version controlling/tracking systems like GIT and Jenkins.",
+    "contactmessage": "Get in touch with me.",
+    "email": "eshwarpasula@gmail.com",
+    "phone": "+1 9542474489",
+    "github": "https://github.com/eeshwar07",
+
+    "address": {
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33332"
+    },
+    "website": "https://www.meetsave.com",
+    "resumedownload": "https://www.meetsave.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/eeshwar-p",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/eeshwar07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Texas at Arlington",
+        "degree": "Masters of Science in Computer Science",
+        "graduated": "December 2023"
+      },
+      {
+        "school": "Vignan Institute of Technology and Science",
+        "degree": "Bachelor's degree in Computer Science and Engineering",
+        "graduated": "September 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys",
+        "title": "Systems Engineer",
+        "years": "Oct 2020 - Nov 2021",
+        "description": [
+          "My role along with my team was to enhance the legacy code of a web application into more responsive SPA’s using JavaScript, ReactJS, CSS and HTML.",
+          "The legacy codebase consisted of 10,000 lines of code, and we reduced it by 30% by optimizing the code.",
+          "Brought the HTML and CSS of an existing website to the latest web standards. ",
+          "Was also involved in Team Meetings with my Team, Clients and two other departments to finalize the requirements.",
+          "Participated in code reviews and provided constructive feedback to team members."
+        ]
+      },
+      {
+        "company": "Arya Technologies",
+        "title": "Full Stack Developer",
+        "years": "May 2018 - May 2020",
+        "description": [
+          "Streamlined and developed web application functionality by identifying and rectifying bugs in the UI codebase.",
+          "Optimized the website speed and performance.",
+          "Developed RESTful APIs using Flask and Ruby on Rails, handling authentication, data processing, and integration with various third-party services reducing API response times by 20%.",
+          "Used PHP for back-end development.",
+          "Executed technical optimizations, integrating Redis caching for database performance enhancement, reducing response times by 30%, and improving system responsiveness.",
+          "Architected a real-time analytics dashboard, leveraging WebSockets and D3.js, providing clients with actionable insights, resulting in a 25% increase in user engagement."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "AWS",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "nodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Food Ordering Application",
+        "url": "https://main--friendly-granita-859610.netlify.app/"
+      },
+      {
+        "title": "Student Marketplace",
+        "url": "https://flourishing-heliotrope-2a141d.netlify.app/"
+      },
+      {
+        "title": "Formula One Stats Application",
+        "url": "https://main--mellifluous-profiterole-118a81.netlify.app/"
+      }
+    ]
+  }
+}
