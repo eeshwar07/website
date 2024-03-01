@@ -3,7 +3,7 @@
     "name": "Eeshwar Pasula",
     "description": "Highly motivated software engineering professional with experience in developing, deploying, and maintaining web, mobile, and desktop applications.",
     "image": "profilepic.jpg",
-    "bio": "Seasoned professional with approximately 3 years of hands-on experience in the development, testing, and maintenance of web applications in Client/Server environments. Proficient in UI technology stacks, showcasing expertise in frameworks such as JavaScript, Node.js, Express, ReactJS, and REST API's. Skilled in developing web applications using HTML, CSS, Tailwind, JavaScript, and Typescript. Well-versed in version controlling/tracking systems like GIT and Jenkins.",
+    "bio": "Seasoned professional with approximately 4 years of hands-on experience in the development, testing, and maintenance of web applications in Client/Server environments. Proficient in UI technology stacks, showcasing expertise in frameworks such as JavaScript, Node.js, Express, ReactJS, and REST API's. Skilled in developing web applications using HTML, CSS, Tailwind, JavaScript, and Typescript. Well-versed in version controlling/tracking systems like GIT and Jenkins. Experience in cloud platforms like AWS, Azure.",
     "contactmessage": "Get in touch with me.",
     "email": "eshwarpasula@gmail.com",
     "phone": "+1 9542474489",
@@ -33,7 +33,7 @@
     "education": [
       {
         "school": "University of Texas at Arlington",
-        "degree": "Masters of Science in Computer Science",
+        "degree": "Master's of Science in Computer Science",
         "graduated": "December 2023"
       },
       {
@@ -44,9 +44,22 @@
     ],
     "work": [
       {
+        "company": "Charter Communications",
+        "title": "Web Developer",
+        "years": "May 2022 - Present",
+        "location": "USA",
+        "description": [
+          "Developed and implemented a new front-end architecture using React.js, resulting in a 25% increase in page load speed and a 15% increase in user engagement.",
+          "Used Redux Framework architecture for application wide state management resulting in a 25% reduction in code complexity.",
+          "Handled web services and APIs that enable seamless communication between components. ",
+          "Designed, built, and deployed applications using the AWS stack including EC2, Mongo DB, focusing on high availability, fault tolerance, and auto-scaling."
+        ]
+      },
+      {
         "company": "Infosys",
         "title": "Systems Engineer",
         "years": "Oct 2020 - Nov 2021",
+        "location": "India",
         "description": [
           "My role along with my team was to enhance the legacy code of a web application into more responsive SPA’s using JavaScript, ReactJS, CSS and HTML.",
           "The legacy codebase consisted of 10,000 lines of code, and we reduced it by 30% by optimizing the code.",
@@ -59,6 +72,7 @@
         "company": "Arya Technologies",
         "title": "Full Stack Developer",
         "years": "May 2018 - May 2020",
+        "location": "India",
         "description": [
           "Streamlined and developed web application functionality by identifying and rectifying bugs in the UI codebase.",
           "Optimized the website speed and performance.",
