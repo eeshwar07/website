@@ -12,7 +12,11 @@ class Portfolio extends Component {
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
             <iframe className="resume-content" src={projects.url}></iframe>
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <div style={{ textAlign: "center" }}>
+              <a href={projects.url} target="_blank">
+                {projects.title}
+              </a>
+            </div>
           </div>
         </div>
       );

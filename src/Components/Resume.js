@@ -40,7 +40,7 @@ class Resume extends Component {
           <ul>
             {work.description.map((element, index) => {
               return (
-                <li key={index}>
+                <li key={index} style={{ textAlign: "justify" }}>
                   <span>&bull;</span>
                   <span>&nbsp;</span>
                   {element}

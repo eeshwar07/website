@@ -8,7 +8,7 @@ class Footer extends Component {
     const networks = this.props.data.social.map(function (network) {
       return (
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} target="_blank">
             <i className={network.className}></i>
           </a>
         </li>
@@ -25,7 +25,7 @@ class Footer extends Component {
               <ul className="copyright">
                 <li>&copy; Copyright 2024</li>
                 <li>
-                  Design by Open Source, Edited by &nbsp;
+                  Design by Open Source, Edited by&nbsp;
                   <a title="Styleshout" href="#home">
                     Eeshwar Pasula
                   </a>

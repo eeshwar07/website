@@ -52,7 +52,10 @@
           "Developed and implemented a new front-end architecture using React.js, resulting in a 25% increase in page load speed and a 15% increase in user engagement.",
           "Used Redux Framework architecture for application wide state management resulting in a 25% reduction in code complexity.",
           "Handled web services and APIs that enable seamless communication between components. ",
-          "Designed, built, and deployed applications using the AWS stack including EC2, Mongo DB, focusing on high availability, fault tolerance, and auto-scaling."
+          "Designed, built, and deployed applications using the AWS stack including EC2, Mongo DB, focusing on high availability, fault tolerance, and auto-scaling.",
+          "Using Axios, written multiple asynchronous API calls to the back-end services to call the backend Service to render the user specific data.",
+          "Used Jenkins for setting up the CI/CD pipelines for automated deployment.",
+          "Worked with modules like MongoDB for database persistence with Node.js to interact with MongoDB."
         ]
       },
       {
@@ -61,11 +64,12 @@
         "years": "Oct 2020 - Nov 2021",
         "location": "India",
         "description": [
-          "My role along with my team was to enhance the legacy code of a web application into more responsive SPA’s using JavaScript, ReactJS, CSS and HTML.",
+          "My role along with my team was to re-design the UI experience of an application from legacy application to brand new SPA using React JS and Redux.",
           "The legacy codebase consisted of 10,000 lines of code, and we reduced it by 30% by optimizing the code.",
-          "Brought the HTML and CSS of an existing website to the latest web standards. ",
-          "Was also involved in Team Meetings with my Team, Clients and two other departments to finalize the requirements.",
-          "Participated in code reviews and provided constructive feedback to team members."
+          "Worked with Express.js for development of RESTful web services and middleware configurations.",
+          "Developed various reusable components and pages for the application as per business requirements.",
+          "Building User centered design components by using Kendo-React library Data grids, Input fields, Dropdowns, Dialogs.",
+          "Implemented Single Sign-On (SSO) authentication for internal customers using IAM OAuth based and SAML authentication for external customers."
         ]
       },
       {
