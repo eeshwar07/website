@@ -126,15 +126,15 @@
     "projects": [
       {
         "title": "Food Ordering Application",
-        "url": "https://main--friendly-granita-859610.netlify.app/"
+        "url": "https://food-order-ap.netlify.app/"
       },
       {
         "title": "Student Marketplace",
-        "url": "https://flourishing-heliotrope-2a141d.netlify.app/"
+        "url": "https://stud-marketplace.netlify.app/"
       },
       {
         "title": "Formula One Stats Application",
-        "url": "https://main--mellifluous-profiterole-118a81.netlify.app/"
+        "url": "https://f1-stat.netlify.app/"
       }
     ]
   }
