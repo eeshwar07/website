@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import pdf from "./Resume.pdf";
 
 class About extends Component {
   render() {
@@ -50,15 +49,22 @@ class About extends Component {
                 <div className="bttn-container">
                   <a
                     className="bttn-customize"
-                    href={pdf}
-                    download="Resume.pdf"
+                    href="https://drive.google.com/file/d/1PdR1dR6bPGvnEadysbER3Nsxifcsr69P/view"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     Download Resume
                   </a>
                 </div>
               </div>
               <div className="columns download width-full">
-                <iframe src={pdf} width="100%" height="500px" />
+                <iframe
+                  src="https://drive.google.com/file/d/1PdR1dR6bPGvnEadysbER3Nsxifcsr69P/preview"
+                  width="640"
+                  height="480"
+                  allow="autoplay"
+                  title="resume"
+                />
               </div>
             </div>
           </div>

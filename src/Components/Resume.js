@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Slide from "react-reveal";
-import certificate from "./certifications.pdf";
 
 class Resume extends Component {
   getRandomColor() {
@@ -120,7 +119,13 @@ class Resume extends Component {
             </div>
 
             <div className="columns download width-full">
-              <iframe src={certificate} width="150%" height="500px" />
+              <iframe
+                src="https://drive.google.com/file/d/1OmFVmF2sMqqB4gE0C_ygx5o-rd0uXvBb/preview"
+                width="640"
+                height="480"
+                allow="autoplay"
+                title="certification"
+              />
             </div>
 
             <div className="nine columns main-col"></div>
