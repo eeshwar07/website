@@ -58,12 +58,7 @@ class About extends Component {
                 </div>
               </div>
               <div className="columns download width-full">
-                <iframe
-                  src="https://drive.google.com/file/d/1PdR1dR6bPGvnEadysbER3Nsxifcsr69P/preview"
-                  width="640"
-                  height="480"
-                  allow="autoplay"
-                  title="resume"
+               
                 />
               </div>
             </div>
