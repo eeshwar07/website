@@ -59,7 +59,7 @@ class About extends Component {
               </div>
               <div className="columns download width-full">
                
-                />
+                
               </div>
             </div>
           </div>
