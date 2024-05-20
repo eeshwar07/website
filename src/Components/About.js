@@ -47,14 +47,7 @@ class About extends Component {
                   </p>
                 </div>
                 <div className="bttn-container">
-                  <a
-                    className="bttn-customize"
-                    href="https://drive.google.com/file/d/1PdR1dR6bPGvnEadysbER3Nsxifcsr69P/view"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Download Resume
-                  </a>
+                
                 </div>
               </div>
               <div className="columns download width-full">
