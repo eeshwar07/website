@@ -49,7 +49,24 @@
         "years": "May 2024 - Present",
         "location": "USA",
         "description": [
-       
+       "Working on implementing a new cookie feature which enhances the security of the application.",
+          "Documenting the overall design and flow of the application.",
+          "Also, working on the authentication and authorization of the user."
+        ]
+      },
+       {
+        "company": "Charter Communications",
+        "title": "Web Developer",
+        "years": "May 2022 - April 2024",
+        "location": "USA",
+        "description": [
+          "Developed and implemented a new front-end architecture using React.js, resulting in a 25% increase in page load speed and a 15% increase in user engagement.",
+          "Used Redux Framework architecture for application wide state management resulting in a 25% reduction in code complexity.",
+          "Handled web services and APIs that enable seamless communication between components. ",
+          "Designed, built, and deployed applications using the AWS stack including EC2, Mongo DB, focusing on high availability, fault tolerance, and auto-scaling.",
+          "Using Axios, written multiple asynchronous API calls to the back-end services to call the backend Service to render the user specific data.",
+          "Used Jenkins for setting up the CI/CD pipelines for automated deployment.",
+          "Worked with modules like MongoDB for database persistence with Node.js to interact with MongoDB."
         ]
       },
       {
