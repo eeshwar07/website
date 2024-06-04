@@ -10,9 +10,9 @@
     "github": "https://github.com/eeshwar07",
 
     "address": {
-      "city": "Miami",
-      "state": "Florida",
-      "zip": "33332"
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46143"
     },
     "website": "https://www.meetsave.com",
     "resumedownload": "https://www.meetsave.com",
@@ -49,9 +49,9 @@
         "years": "May 2024 - Present",
         "location": "USA",
         "description": [
-       "Working on implementing a new cookie feature which enhances the security of the application.",
-          "Documenting the overall design and flow of the application.",
-          "Also, working on the authentication and authorization of the user."
+       "Working on implementing a new cookie feature that enhances the security of an application by 20%.",
+          "Documenting the overall design and flow of the application to improve readability by 10%.",
+          "Working with Azure Functions to communicate the API calls to the CM."
         ]
       },
        {
