@@ -45,13 +45,15 @@
     "work": [
       {
         "company": "The Commons XR",
-        "title": "Full Stack Engineer Intern",
+        "title": "Full Stack Engineer",
         "years": "May 2024 - Present",
         "location": "USA",
         "description": [
        "Working on implementing a new cookie feature that enhances the security of an application by 20%.",
           "Documenting the overall design and flow of the application to improve readability by 10%.",
-          "Working with Azure Functions to communicate the API calls to the CM."
+          "Working with Azure Functions to communicate the API calls to the CM.",
+          "Audited all the API calls in the Azure API Functions and made necessary changes to the APIs to ensure the they go through router functions for uniformity and clarity.",
+          "Split the API calls to go through different ports onto the CM server based on the service of the API."
         ]
       },
        {
