@@ -41,12 +41,12 @@ class About extends Component {
                       {city}, {state}, {zip}
                     </span>
                     <br />
-                    <span>{phone}</span>
-                    <br />
+                    {/* <span>{phone}</span>
+                    <br /> */}
                     <span>{email}</span>
                   </p>
                 </div>
-                <div className="bttn-container">
+                {/* <div className="bttn-container">
                  <a
                     className="bttn-customize"
                     href="https://drive.google.com/file/d/1PdR1dR6bPGvnEadysbER3Nsxifcsr69P/view"
@@ -55,9 +55,9 @@ class About extends Component {
                   >
                     Download Resume
                   </a>
-                </div>
+                </div> */}
               </div>
-              <div className="columns download width-full">
+              {/* <div className="columns download width-full">
                <iframe
                   src="https://drive.google.com/file/d/1PdR1dR6bPGvnEadysbER3Nsxifcsr69P/preview"
                   width="640"
@@ -65,7 +65,7 @@ class About extends Component {
                   allow="autoplay"
                   title="resume"
                 />
-              </div>
+              </div> */}
             </div>
           </div>
         </Fade>

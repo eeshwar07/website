@@ -36,7 +36,7 @@ class Resume extends Component {
             <span>&bull;</span> <em className="date">{work.years}</em>
             <span>&bull;</span> <em className="date">{work.location}</em>
           </p>
-          <ul>
+          {/* <ul>
             {work.description.map((element, index) => {
               return (
                 <li key={index} style={{ textAlign: "justify" }}>
@@ -46,7 +46,7 @@ class Resume extends Component {
                 </li>
               );
             })}
-          </ul>
+          </ul> */}
         </div>
       );
     });
